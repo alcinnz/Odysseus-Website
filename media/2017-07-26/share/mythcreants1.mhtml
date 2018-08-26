@@ -1,0 +1,579 @@
+From: <Saved by WebKit>
+Subject: MythcreantsMythcreants
+Date: Tue, 27 Aug 2018 07:15:08 +1200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_8E9A_0768648D.E58D5D1F"
+
+------=_NextPart_000_8E9A_0768648D.E58D5D1F
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: odysseus:view?url=http%3A%2F%2Fstaging.mythcreants.com%2Ffeed%2F
+
+<html><head><meta charset=3D"UTF-8">
+  <title>MythcreantsMythcreants</title>
+  <link rel=3D"alternate" type=3D"text/xml" href=3D"http://staging.mythcrea=
+nts.com/feed/">
+  <base href=3D"http://staging.mythcreants.com/feed/">
+  <style>
+    @import url("odysseus:butterick.css");
+
+    a[href^=3D"mailto:"]:before {content: url(icon:16/mail-send);}
+    a[href^=3D"odysseus:view?tag=3D"]:before {content: url(icon:16/tag);}
+    iframe {
+      width: 100%;
+      height: 200px;
+      resize: vertical;
+    }
+    blockquote {clear: both; white-space: pre-wrap;}
+    img {max-width: 100%; max-height: 200px;}
+  </style>
+ =20
+</head>
+<body>
+ =20
+ =20
+
+ =20
+
+  <h1><a href=3D"http://staging.mythcreants.com/feed/">MythcreantsMythcrean=
+ts</a></h1>
+   =20
+
+    <aside style=3D"float:right">
+     =20
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Fantasy &amp; Science Fiction for Storytellers
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+    </nav>
+ =20
+    <aside><form action=3D"odysseus:view" method=3D"GET">
+      <input type=3D"hidden" name=3D"url" value=3D"http://staging.mythcrean=
+ts.com/feed/">
+      <dl>
+     =20
+     =20
+        <dt>Tags</dt>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Analysis" id=
+=3D"tag-739e6d2a73723ec7b1919fa5a51f9b07">
+            <label for=3D"tag-739e6d2a73723ec7b1919fa5a51f9b07">Analysis</l=
+abel></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Character" id=
+=3D"tag-76a40e4f974fd895a0a2598c1cee28b4">
+            <label for=3D"tag-76a40e4f974fd895a0a2598c1cee28b4">Character</=
+label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Commentary" id=
+=3D"tag-3d548ffd1c21b886867f24d3b54d3359">
+            <label for=3D"tag-3d548ffd1c21b886867f24d3b54d3359">Commentary<=
+/label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Endings" id=3D=
+"tag-3f99a3b89240d4f994fdeebd8ccb3292">
+            <label for=3D"tag-3f99a3b89240d4f994fdeebd8ccb3292">Endings</la=
+bel></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Game Mechanics=
+" id=3D"tag-a27736b602f904b6963f8de5fd166800">
+            <label for=3D"tag-a27736b602f904b6963f8de5fd166800">Game Mechan=
+ics</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Likability" id=
+=3D"tag-57ea9fe01e6f1c5e52a8f9be1bdde6a7">
+            <label for=3D"tag-57ea9fe01e6f1c5e52a8f9be1bdde6a7">Likability<=
+/label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Magic" id=3D"t=
+ag-02700e454d679f31f27c6f0768986dd1">
+            <label for=3D"tag-02700e454d679f31f27c6f0768986dd1">Magic</labe=
+l></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Money" id=3D"t=
+ag-a93312829ec4c71aac461cec296faa0e">
+            <label for=3D"tag-a93312829ec4c71aac461cec296faa0e">Money</labe=
+l></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Q&amp;A" id=3D=
+"tag-bcd92bcee57648f2bd4480c4a1193ac0">
+            <label for=3D"tag-bcd92bcee57648f2bd4480c4a1193ac0">Q&amp;a</la=
+bel></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Roleplaying" i=
+d=3D"tag-51568aa4f076754c39714b6386ed09f5">
+            <label for=3D"tag-51568aa4f076754c39714b6386ed09f5">Roleplaying=
+</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Roleplaying Sy=
+stems" id=3D"tag-4cd6e116f47040b32a94ad11be734c48">
+            <label for=3D"tag-4cd6e116f47040b32a94ad11be734c48">Roleplaying=
+ Systems</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Social Justice=
+" id=3D"tag-2ffd1a56cbbb7ec2221a4a1c57219434">
+            <label for=3D"tag-2ffd1a56cbbb7ec2221a4a1c57219434">Social Just=
+ice</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Storytelling" =
+id=3D"tag-d4ccb502776c96b2c114f3ec5d0c1599">
+            <label for=3D"tag-d4ccb502776c96b2c114f3ec5d0c1599">Storytellin=
+g</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Worldbuilding"=
+ id=3D"tag-76965cf1ea6f2e0acd299a85049dc790">
+            <label for=3D"tag-76965cf1ea6f2e0acd299a85049dc790">Worldbuildi=
+ng</label></dd>
+       =20
+     =20
+      <button type=3D"submit"><img src=3D"icon:16/system-search-symbolic"> =
+Search</button>
+    </dl></form></aside>
+ =20
+  <main>
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/should-yo=
+u-design-a-robust-structure-for-your-game/">Should You Design a Robust Stru=
+cture For Your Game?</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Sat, 14 Jul 2018 07:01:47 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Most roleplaying games on the market these days take a laissez-fair=
+e approach to play. The system will provide detailed rules for character cr=
+eation and probably combat, but once play actually starts, everything is pu=
+t in the group=E2=80=99s hands. Any structure a system might have is [=E2=
+=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DRoleplaying&amp;url=3Dhttp://staging=
+.mythcreants.com/feed/">Roleplaying</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DGame%20Mechanics&amp;url=3Dhttp://st=
+aging.mythcreants.com/feed/">Game Mechanics</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/understan=
+ding-character-karma/">Understanding Character Karma</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Fri, 13 Jul 2018 07:01:43 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Character karma is a useful concept that helps us understand how to=
+ craft stories that are engaging and satisfying. While I=E2=80=99ve mention=
+ed the concept in many other places, it=E2=80=99s overdue for a full articl=
+e on the ways it affects our stories. First, what is character [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DStorytelling&amp;url=3Dhttp://stagin=
+g.mythcreants.com/feed/">Storytelling</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DCharacter&amp;url=3Dhttp://staging.m=
+ythcreants.com/feed/">Character</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DEndings&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/">Endings</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DLikability&amp;url=3Dhttp://staging.=
+mythcreants.com/feed/">Likability</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/what-shou=
+ld-i-consider-while-creating-a-fictional-economy/">What Should I Consider W=
+hile Creating a Fictional Economy?</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 09 Jul 2018 07:01:45 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        What kind of things should I think about when creating fictional ec=
+onomies and currencies for my world? -Shane Hey Shane, thanks for writing i=
+n. Fictional economies are something I think about a lot, even though in mo=
+st stories they fade into the background. They=E2=80=99re like [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DQ&amp;A&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/">Q&amp;A</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DMoney&amp;url=3Dhttp://staging.mythc=
+reants.com/feed/">Money</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/five-stor=
+y-elements-that-worked-in-one-story-but-not-in-another/">Five Story Element=
+s That Worked in One Story but not in Another</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Sat, 07 Jul 2018 07:01:02 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Stories are always borrowing from each other, intentionally or othe=
+rwise. It=E2=80=99s impossible to completely avoid material used by someone=
+ else. Even if you somehow managed it, the resulting story would probably f=
+eel stilted and out of touch. When this kind of borrowing is done well, [=
+=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DAnalysis&amp;url=3Dhttp://staging.my=
+thcreants.com/feed/">Analysis</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/creating-=
+a-magic-system-for-superpowers/">Creating a Magic System for Superpowers</a=
+></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Fri, 06 Jul 2018 07:01:49 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Since I posted my instructions on creating rational magic systems y=
+ears ago, I=E2=80=99ve gotten questions from readers on how to make their m=
+agic systems more rational. I found that in many of these cases, the asker =
+was creating a magic system that was more like [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DWorldbuilding&amp;url=3Dhttp://stagi=
+ng.mythcreants.com/feed/">Worldbuilding</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DMagic&amp;url=3Dhttp://staging.mythc=
+reants.com/feed/">Magic</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/unknown-a=
+rmies-third-edition-is-fun-despite-itself/">Unknown Armies Third Edition Is=
+ Fun Despite Itself</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Sat, 30 Jun 2018 07:01:01 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        I love to review new entries to the roleplaying genre, but sometime=
+s we must look to the old classics as well. This week, I=E2=80=99m compromi=
+sing. Unknown Armies has been with us since the late 90s,1 but its third ed=
+ition came out in 2016, so there=E2=80=99s [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DRoleplaying&amp;url=3Dhttp://staging=
+.mythcreants.com/feed/">Roleplaying</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DRoleplaying%20Systems&amp;url=3Dhttp=
+://staging.mythcreants.com/feed/">Roleplaying Systems</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/what-make=
+s-stories-go-viral/">What Makes Stories Go Viral</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Fri, 29 Jun 2018 07:01:09 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Not everything that goes viral is a picture with a funny caption.&n=
+bsp;Fiction&nbsp;also spreads&nbsp;on such social media sites as Facebook a=
+nd Tumblr. I=E2=80=99ve been analyzing viral stories as I=E2=80=99ve seen t=
+hem, and I=E2=80=99d like to report back to all the interested writers out =
+there. But before [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DStorytelling&amp;url=3Dhttp://stagin=
+g.mythcreants.com/feed/">Storytelling</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/are-there=
+-any-rpgs-with-good-rules-for-animals/">Are There Any RPGs With Good Rules =
+for Animals?</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 25 Jun 2018 07:01:17 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Have you ever played a tabletop RPG that effectively represented pe=
+ople developing useful relationships with animals (dogs, horses, etc.)? It=
+=E2=80=99s such a huge part of human history but seems strangely ignored in=
+ the TTRPG space. As you once pointed out, Animal Handling or equivalents a=
+re [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DQ&amp;A&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/">Q&amp;A</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DRoleplaying&amp;url=3Dhttp://staging=
+.mythcreants.com/feed/">Roleplaying</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/six-suppo=
+sedly-powerful-abilities-that-dont-measure-up/">Six Supposedly Powerful Abi=
+lities That Don=E2=80=99t Measure Up</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Sat, 23 Jun 2018 07:01:59 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        We storytellers love giving our characters special abilities. They=
+=E2=80=99re just cool! They add novelty,&nbsp;let us craft different plots,=
+ and make a story=E2=80=99s empowerment fantasy more enticing. But sometime=
+s a powerful ability isn=E2=80=99t all it=E2=80=99s cracked up to be. I see=
+ this all the time in [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DAnalysis&amp;url=3Dhttp://staging.my=
+thcreants.com/feed/">Analysis</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DMagic&amp;url=3Dhttp://staging.mythc=
+reants.com/feed/">Magic</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/six-more-=
+bad-arguments-against-social-justice-in-speculative-fiction/">Six More Bad =
+Arguments Against Social Justice in Speculative Fiction</a></h3>
+   =20
+
+    <aside style=3D"float:right">
+      Fri, 22 Jun 2018 07:01:50 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+     =20
+     =20
+    </aside>
+
+    <blockquote>
+        Greetings, social justice adventurers.1 If you have been on the int=
+ernet for more than a few minutes, you=E2=80=99ve probably noticed that peo=
+ple have a lot of bad opinions, especially when it comes to including progr=
+essive values in fiction. They claim that such stories never sell, [=E2=80=
+=A6]
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DCommentary&amp;url=3Dhttp://staging.=
+mythcreants.com/feed/">Commentary</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DSocial%20Justice&amp;url=3Dhttp://st=
+aging.mythcreants.com/feed/">Social Justice</a>
+     =20
+    </nav></section>
+   =20
+ =20
+  </main>
+
+  <footer>
+    <nav>
+     =20
+       =20
+       =20
+
+       =20
+         =20
+       =20
+       =20
+         =20
+       =20
+        <em>Sat, 14 Jul 2018 07:01:47 +0000
+          =E2=80=94
+          Fri, 22 Jun 2018 07:01:50 +0000</em>
+       =20
+         =20
+       =20
+       =20
+         =20
+       =20
+     =20
+    </nav>
+    <p>
+     =20
+     =20
+     =20
+     =20
+    </p>
+  </footer>
+
+ =20
+
+
+
+
+
+   =20
+   =20
+
+</body></html>
+------=_NextPart_000_8E9A_0768648D.E58D5D1F
+Content-Type: text/css
+Content-Transfer-Encoding: base64
+Content-Location: odysseus:butterick.css
+
+Ym9keSB7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC12YXJpYW50LWNhcHM6IG5vcm1hbDsgZm9u
+dC13ZWlnaHQ6IG5vcm1hbDsgZm9udC1zdHJldGNoOiBub3JtYWw7IGZvbnQtc2l6ZTogMTRweDsg
+bGluZS1oZWlnaHQ6IG5vcm1hbDsgZm9udC1mYW1pbHk6IHNhbnMtc2VyaWY7IGNvbG9yOiByZ2Io
+NTEsIDUxLCA1MSk7IH0KCmJvZHkgPiBuYXYgeyBib3JkZXItYm90dG9tLXdpZHRoOiB0aGluOyBi
+b3JkZXItYm90dG9tLXN0eWxlOiBzb2xpZDsgYm9yZGVyLWJvdHRvbS1jb2xvcjogZ3JheTsgcGFk
+ZGluZzogMTBweCAwcHg7IHRleHQtYWxpZ246IGxlZnQ7IH0KClthcmlhLWhpZGRlbl0geyBkaXNw
+bGF5OiBub25lOyB9CgptYWluIHsgbWF4LXdpZHRoOiA2MDBweDsgbWFyZ2luOiAwcHggYXV0bzsg
+ZGlzcGxheTogZmxleDsgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsganVzdGlmeS1jb250ZW50OiBj
+ZW50ZXI7IG1pbi1oZWlnaHQ6IDkwdmg7IH0KCm1haW4gaDEsIG1haW4gaDIsIG1haW4gaDMsIG1h
+aW4gaDQgeyB0ZXh0LWFsaWduOiBjZW50ZXI7IH0KCmlucHV0W3R5cGU9InNlYXJjaCJdOjotd2Vi
+a2l0LXNlYXJjaC1kZWNvcmF0aW9uIHsgd2lkdGg6IDE2cHg7IGhlaWdodDogMTZweDsgbWFyZ2lu
+OiAwcHggMnB4OyBhbGlnbi1zZWxmOiBjZW50ZXI7IGJhY2tncm91bmQtaW1hZ2U6IHVybChpY29u
+OjE2L3N5c3RlbS1zZWFyY2gtc3ltYm9saWMpOyAtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7IH0K
+Cm1haW4gbmF2IHsgdGV4dC1hbGlnbjogY2VudGVyOyB9Cgpmb290ZXIgeyB0ZXh0LWFsaWduOiBj
+ZW50ZXI7IHdpZHRoOiAxMDAlOyB9CgpmaWd1cmUgeyBwb3NpdGlvbjogcmVsYXRpdmU7IGRpc3Bs
+YXk6IGlubGluZS1ibG9jazsgbWFyZ2luOiA0cHg7IHBhZGRpbmc6IDBweDsgfQoKZmlndXJlIGZv
+cm0geyBwb3NpdGlvbjogYWJzb2x1dGU7IGJvdHRvbTogMHB4OyBiYWNrZ3JvdW5kLWNvbG9yOiB3
+aGl0ZTsgdmlzaWJpbGl0eTogaGlkZGVuOyBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBpbml0aWFsIGlu
+aXRpYWw7IGJhY2tncm91bmQtcmVwZWF0OiBpbml0aWFsIGluaXRpYWw7IH0KCmZpZ3VyZSBmb3Jt
+Om50aC1vZi10eXBlKDEpIHsgbGVmdDogMHB4OyB9CgpmaWd1cmUgZm9ybTpudGgtb2YtdHlwZSgy
+KSB7IHJpZ2h0OiAwcHg7IH0KCmZpZ3VyZTpob3ZlciBmb3JtIHsgdmlzaWJpbGl0eTogdmlzaWJs
+ZTsgfQoKaW5wdXRbdHlwZT0ibnVtYmVyIl0geyB3aWR0aDogMjBweDsgfQoKaDEgeyBmb250LXNp
+emU6IDI0MCU7IH0KCmgyIHsgZm9udC13ZWlnaHQ6IDMwMDsgZm9udC1zaXplOiAxODAlOyB9Cgpo
+MyB7IGZvbnQtc2l6ZTogMTEwJTsgfQoKaDQgeyBmb250LXdlaWdodDogYm9sZDsgdGV4dC1zaGFk
+b3c6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC40KSAwcHggMXB4OyBwYWRkaW5nLWJvdHRvbTogNnB4
+OyBwYWRkaW5nLXRvcDogNnB4OyB9CgpzcGFuW3RpdGxlXSB7IGJvcmRlci1ib3R0b20td2lkdGg6
+IHRoaW47IGJvcmRlci1ib3R0b20tc3R5bGU6IGRvdHRlZDsgYm9yZGVyLWJvdHRvbS1jb2xvcjog
+Z3JheTsgY3Vyc29yOiBoZWxwOyB9CgpociB7IHdpZHRoOiAxMDAlOyB9
+------=_NextPart_000_8E9A_0768648D.E58D5D1F
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: icon:16/system-search-symbolic
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAWZJREFU
+OI2lkT1OG1EUhb9zJS8hpoOQigLc0/KTwm0WAJY9Y7MDUBYA6VO8sWUZqGlSkCBFWQKFJSPRgUWB
+gC3guSkYg8EzhIhTvfd0zqd73oV3SpOXVqv1MU3THaAKzAA3wLGZ7YUQLl8FxHH8GTgC+sCBu18C
+88CGpIqkL0mS/M4FNBqNeTPrS/qeJMlXwCc9URTtStoajUaVbrc7nAQYgJltA/2cMIB3Op0dYJD5
+mAIAVUn7OeFHiLvvS6oWAcruflUQfughDYFyEeAGmH0N4O5zwPDl+xjw0903ebHW5wOoJukkF2Bm
+e5IqURTt5kAUx/E3YFnSwRR5fGg2m+vufgQMMuOFu38CNoDlzHZmZishhNspAEC9Xp8zs+3st8tZ
+519mdpim6SGwyMM6V8eQos5TqtVqH0ql0h9gCTgHVtrt9rX9I/eoXq93Z2ZrwABYAH7A0xbepBDC
+rZmtSjoF7v8nW6i/uWdx2MqbtMUAAAAASUVORK5CYII=
+------=_NextPart_000_8E9A_0768648D.E58D5D1F--

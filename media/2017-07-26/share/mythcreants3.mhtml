@@ -1,0 +1,847 @@
+From: <Saved by WebKit>
+Subject: Mythcreant Storytime
+Date: Tue, 27 Aug 2018 07:16:28 +1200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_BF78_CE21633F.E8A18150"
+
+------=_NextPart_000_BF78_CE21633F.E8A18150
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: odysseus:view?url=http%3A%2F%2Fstaging.mythcreants.com%2Ffeed%2F%3Fpost_type%3Dstory
+
+<html><head><meta charset=3D"UTF-8">
+  <title>Mythcreant Storytime</title>
+  <link rel=3D"alternate" type=3D"text/xml" href=3D"http://staging.mythcrea=
+nts.com/feed/?post_type=3Dstory">
+  <base href=3D"http://staging.mythcreants.com/feed/?post_type=3Dstory">
+  <style>
+    @import url("odysseus:butterick.css");
+
+    a[href^=3D"mailto:"]:before {content: url(icon:16/mail-send);}
+    a[href^=3D"odysseus:view?tag=3D"]:before {content: url(icon:16/tag);}
+    iframe {
+      width: 100%;
+      height: 200px;
+      resize: vertical;
+    }
+    blockquote {clear: both; white-space: pre-wrap;}
+    img {max-width: 100%; max-height: 200px;}
+  </style>
+ =20
+</head>
+<body>
+ =20
+ =20
+
+ =20
+
+  <h1><a href=3D"http://staging.mythcreants.com/feed/?post_type=3Dstory">My=
+thcreant Storytime</a></h1>
+   =20
+      <h2>Enjoy original fantasy and science fiction.</h2>
+   =20
+
+    <aside style=3D"float:right">
+     =20
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Mythcreants
+     =20
+    </aside>
+
+    <blockquote>
+        Enjoy original fantasy and science fiction.
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DArts%20&amp;%20Entertainment&amp;url=
+=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dstory">Arts &amp; Enter=
+tainment</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DArts&amp;url=3Dhttp://staging.mythcr=
+eants.com/feed/?post_type=3Dstory">Arts</a>
+     =20
+    </nav>
+ =20
+    <aside><form action=3D"odysseus:view" method=3D"GET">
+      <input type=3D"hidden" name=3D"url" value=3D"http://staging.mythcrean=
+ts.com/feed/?post_type=3Dstory">
+      <dl>
+     =20
+        <dt>Authors</dt>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Mythcreants=
+" id=3D"author-ec5067deff743ca1bf2b87d0451a3563">
+            <label for=3D"author-ec5067deff743ca1bf2b87d0451a3563">Mythcrea=
+nts</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Chris Winkle, narrated by Dash Buck" id=3D"author-544a418d8eb97a65adcea528b=
+26e99ef">
+            <label for=3D"author-544a418d8eb97a65adcea528b26e99ef">Written =
+By Chris Winkle, Narrated By Dash Buck</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Chris Winkle, narrated by Kristin Aline" id=3D"author-56a217ceee538a16ccda4=
+c230f31a48d">
+            <label for=3D"author-56a217ceee538a16ccda4c230f31a48d">Written =
+By Chris Winkle, Narrated By Kristin Aline</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Chris Winkle, narrated by Sarah Gould" id=3D"author-bd1dde8873b301e4e16a56a=
+8368fa788">
+            <label for=3D"author-bd1dde8873b301e4e16a56a8368fa788">Written =
+By Chris Winkle, Narrated By Sarah Gould</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Chris Winkle, narrated by Will Pitts" id=3D"author-b2df97ce3f8319b363efd064=
+95e29668">
+            <label for=3D"author-b2df97ce3f8319b363efd06495e29668">Written =
+By Chris Winkle, Narrated By Will Pitts</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Oren Ashkenazi, narrated by Johnathan Preshaw" id=3D"author-39b4e64f66ae058=
+d81b887cda066b467">
+            <label for=3D"author-39b4e64f66ae058d81b887cda066b467">Written =
+By Oren Ashkenazi, Narrated By Johnathan Preshaw</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Oren Ashkenazi, narrated by Kristin Aline" id=3D"author-675018c402c1ccc0538=
+9716b968d92b5">
+            <label for=3D"author-675018c402c1ccc05389716b968d92b5">Written =
+By Oren Ashkenazi, Narrated By Kristin Aline</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Oren Ashkenazi, narrated by MJ Carlson" id=3D"author-fa7ce9330f5bff7a1e33e8=
+d7e350f0dc">
+            <label for=3D"author-fa7ce9330f5bff7a1e33e8d7e350f0dc">Written =
+By Oren Ashkenazi, Narrated By Mj Carlson</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Written by =
+Oren Ashkenazi, narrated by Sarah Gould" id=3D"author-f3c136b0a0cd3ee9721a2=
+4fa326d09cb">
+            <label for=3D"author-f3c136b0a0cd3ee9721a24fa326d09cb">Written =
+By Oren Ashkenazi, Narrated By Sarah Gould</label></dd>
+       =20
+     =20
+     =20
+        <dt>Tags</dt>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"" id=3D"tag-d4=
+1d8cd98f00b204e9800998ecf8427e">
+            <label for=3D"tag-d41d8cd98f00b204e9800998ecf8427e"></label></d=
+d>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+    =09
+    " id=3D"tag-d573b94779af6e93939d73e6da28aef5">
+            <label for=3D"tag-d573b94779af6e93939d73e6da28aef5">
+    =09
+    </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Action-Packed
+            " id=3D"tag-8013b94112d0160979cfdb02e45de470">
+            <label for=3D"tag-8013b94112d0160979cfdb02e45de470">
+                action-packed
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Eerie
+            " id=3D"tag-4d17fb9d799828ae2a8d985f3a69124b">
+            <label for=3D"tag-4d17fb9d799828ae2a8d985f3a69124b">
+                eerie
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Fantasy
+            " id=3D"tag-c25803fe967c89c91dc0108038ca9338">
+            <label for=3D"tag-c25803fe967c89c91dc0108038ca9338">
+                fantasy
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Fun
+            " id=3D"tag-3430654cd7d4aa06b931f105b5c2abb1">
+            <label for=3D"tag-3430654cd7d4aa06b931f105b5c2abb1">
+                fun
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Meaningful
+            " id=3D"tag-fd7938aa5b073845753e0da482facbe8">
+            <label for=3D"tag-fd7938aa5b073845753e0da482facbe8">
+                meaningful
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Romantic
+            " id=3D"tag-e39151928102585c062c720ae26b211a">
+            <label for=3D"tag-e39151928102585c062c720ae26b211a">
+                romantic
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Science Fiction
+            " id=3D"tag-22df08df320e44dc12f97c8ea8f933f3">
+            <label for=3D"tag-22df08df320e44dc12f97c8ea8f933f3">
+                science Fiction
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Space Opera
+            " id=3D"tag-e22c3697d6c08c90501fbdc6b1f8e0be">
+            <label for=3D"tag-e22c3697d6c08c90501fbdc6b1f8e0be">
+                space Opera
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+                Urban Fantasy
+            " id=3D"tag-8216e613f47f2bbd99f90f5a0028adde">
+            <label for=3D"tag-8216e613f47f2bbd99f90f5a0028adde">
+                urban Fantasy
+            </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Arts &amp; Ent=
+ertainment" id=3D"tag-35da26f9ba04d1933eff5c9806764928">
+            <label for=3D"tag-35da26f9ba04d1933eff5c9806764928">Arts &amp; =
+Entertainment</label></dd>
+       =20
+     =20
+      <button type=3D"submit"><img src=3D"icon:16/system-search-symbolic"> =
+Search</button>
+    </dl></form></aside>
+ =20
+  <main>
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/the-de=
+ath-and-life-of-turing/">The Death and Life of Turing</a></h3>
+   =20
+      <h4>I can't tell you if I'm Riley Anderson, but I do have Riley's mem=
+ories. I remember squabbling with Amy over the blue dolphin eraser when we =
+could barely walk. I remember sorting, labeling, and binding my fresh noteb=
+ook paper before every school year. I remember sacrificing the same eraser,=
+ now broken, and the same paper, now used, to my graduation bonfire. And I =
+remember learning that my lymphatic cells had stopped working so they could=
+ eat, drink, and be merry.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 02 Apr 2018 07:01:23 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Chris Winkle, narrated by Dash Buck
+     =20
+    </aside>
+
+    <blockquote>
+        I can't tell you if I'm Riley Anderson, but I do have Riley's memor=
+ies. I remember squabbling with Amy over the blue dolphin eraser when we co=
+uld barely walk. I remember sorting, labeling, and binding my fresh noteboo=
+k paper before every school year. I remember sacrificing the same eraser, n=
+ow broken, and the same paper, now used, to my graduation bonfire. And I re=
+member learning that my lymphatic cells had stopped working so they could e=
+at, drink, and be merry.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+8/MST-death-and-life-of-turing-winkle-buck.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/human-=
+factor/">Human Factor</a></h3>
+   =20
+      <h4>Major Sanja Khan fought the feeling that she=E2=80=99d been reduc=
+ed to a weak, insignificant piece of herself. Disconnected from her craft d=
+uring critical repairs, her own flesh and bones seemed alien. Her vision na=
+rrowed to her front side, making her back prickle as though something were =
+creeping up behind her. Her thoughts were limited by the speed of electroch=
+emical reactions, hazy and sluggish.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 19 Mar 2018 07:01:10 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Oren Ashkenazi, narrated by Johnathan Preshaw
+     =20
+    </aside>
+
+    <blockquote>
+        Major Sanja Khan fought the feeling that she=E2=80=99d been reduced=
+ to a weak, insignificant piece of herself. Disconnected from her craft dur=
+ing critical repairs, her own flesh and bones seemed alien. Her vision narr=
+owed to her front side, making her back prickle as though something were cr=
+eeping up behind her. Her thoughts were limited by the speed of electrochem=
+ical reactions, hazy and sluggish.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+9/MST-human-factor-ashkenazi-preshaw.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/kelly-=
+and-the-goblins/">Kelly and the Goblins</a></h3>
+   =20
+      <h4>Kelly emerged from the bathroom to discover all the furniture was=
+ upside down. Oh god, how could she fix this mess before John got back with=
+ his parents? He=E2=80=99d freak. He had planned every aspect of their visi=
+t precisely. He specified that the house had to be in perfect order and tol=
+d her to wear the most conservative dress in her closet. But while she slav=
+ed over every eyelash, something had vandalized her careful preparations.</=
+h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 05 Mar 2018 08:01:35 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Chris Winkle, narrated by Sarah Gould
+     =20
+    </aside>
+
+    <blockquote>
+        Kelly emerged from the bathroom to discover all the furniture was u=
+pside down. Oh god, how could she fix this mess before John got back with h=
+is parents? He=E2=80=99d freak. He had planned every aspect of their visit =
+precisely. He specified that the house had to be in perfect order and told =
+her to wear the most conservative dress in her closet. But while she slaved=
+ over every eyelash, something had vandalized her careful preparations.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+3/MST-kelly-and-the-goblins-winkle-gould.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/dragon=
+s-hoard/">Dragon=E2=80=99s Hoard</a></h3>
+   =20
+      <h4>I wake to pain. They came upon me as I slept, the invaders who cl=
+imb out of their stinking cities to pillage what is most precious. My blood=
+ runs hot, and I roar. Three intruders, with swords and staves in hand, are=
+ after my treasure, the glow of my life.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 19 Feb 2018 08:01:24 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Oren Ashkenazi, narrated by Kristin Aline
+     =20
+    </aside>
+
+    <blockquote>
+        I wake to pain. They came upon me as I slept, the invaders who clim=
+b out of their stinking cities to pillage what is most precious. My blood r=
+uns hot, and I roar. Three intruders, with swords and staves in hand, are a=
+fter my treasure, the glow of my life.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+3/MST-dragons-hoard-ashkenazi-aline.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/real-n=
+umbers/">Real Numbers</a></h3>
+   =20
+      <h4>War arrived quietly every 2.5 years. After each peace settlement =
+expired, the USR grew bolder, justifying the next conflict with more outrag=
+eous claims than before. International authorities became apathetic; allies=
+ no longer offered assistance. For years, Chancellor Abby Walsh wasted reso=
+urces applying for aid. Now she simply scheduled a drone evaluation and sto=
+od before her monitors, ready for another fruitless attempt to remedy USR =
+=E2=80=9Cgrievances=E2=80=9D through negotiation.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 05 Feb 2018 08:01:00 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Chris Winkle, narrated by Will Pitts
+     =20
+    </aside>
+
+    <blockquote>
+        War arrived quietly every 2.5 years. After each peace settlement ex=
+pired, the USR grew bolder, justifying the next conflict with more outrageo=
+us claims than before. International authorities became apathetic; allies n=
+o longer offered assistance. For years, Chancellor Abby Walsh wasted resour=
+ces applying for aid. Now she simply scheduled a drone evaluation and stood=
+ before her monitors, ready for another fruitless attempt to remedy USR =E2=
+=80=9Cgrievances=E2=80=9D through negotiation.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+5/MST-real-numbers-winkle-pitts.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/honor-=
+among-thieves/">Honor Among Thieves</a></h3>
+   =20
+      <h4>Kesha Cherian swore as alarms blared. A blip inched toward her sh=
+ip on the sensor display. Another ship, running without transponders, was o=
+n a collision course with just the right amount of momentum for boarding. P=
+irates.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 22 Jan 2018 08:01:41 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Oren Ashkenazi, narrated by Sarah Gould
+     =20
+    </aside>
+
+    <blockquote>
+        Kesha Cherian swore as alarms blared. A blip inched toward her ship=
+ on the sensor display. Another ship, running without transponders, was on =
+a collision course with just the right amount of momentum for boarding. Pir=
+ates.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+7/MST-honor-among-thieves-ashkenazi-gould.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/the-dr=
+eaming-tree/">The Dreaming Tree</a></h3>
+   =20
+      <h4>Lithunsa was dying. The tree=E2=80=99s fabled voice, which once c=
+arried as many tones as the temple=E2=80=99s choir, had dimmed to soft crie=
+s. Through the long years, Lithunsa=E2=80=99s song had given Pao refuge fro=
+m hurtful taunts, buoyed him when he felt worthless, and rejoiced with him =
+on sunlit days. The tree was the only one who understood him, or cared to. =
+Now he stood helpless as the leaves crumpled and fell.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 08 Jan 2018 08:01:51 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Chris Winkle, narrated by Kristin Aline
+     =20
+    </aside>
+
+    <blockquote>
+        Lithunsa was dying. The tree=E2=80=99s fabled voice, which once car=
+ried as many tones as the temple=E2=80=99s choir, had dimmed to soft cries.=
+ Through the long years, Lithunsa=E2=80=99s song had given Pao refuge from =
+hurtful taunts, buoyed him when he felt worthless, and rejoiced with him on=
+ sunlit days. The tree was the only one who understood him, or cared to. No=
+w he stood helpless as the leaves crumpled and fell.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+3/MST-dreaming-tree-winkle-aline.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/contin=
+gency/">Contingency</a></h3>
+   =20
+      <h4>I am a consciousness in the void. I feel nothing, sense nothing. =
+I have been awake before, a long time before. I become aware of metal and p=
+lastic around me - a ship that is my body. Power flows into my processors o=
+ne by one. I feel engines, reactors. My memory comes back over the course o=
+f seconds.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 25 Dec 2017 08:01:59 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Oren Ashkenazi, narrated by MJ Carlson
+     =20
+    </aside>
+
+    <blockquote>
+        I am a consciousness in the void. I feel nothing, sense nothing. I =
+have been awake before, a long time before. I become aware of metal and pla=
+stic around me - a ship that is my body. Power flows into my processors one=
+ by one. I feel engines, reactors. My memory comes back over the course of =
+seconds.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+3/MST-contingency-ashkenazi-carlson.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/ambush=
+-at-the-office/">Ambush at the Office</a></h3>
+   =20
+      <h4>Thank goodness it was Sunday; the museum offices would be mercifu=
+lly vacant. The back parking lot lay empty, the silence beguiling. No one w=
+ould distract Rita from her critical mission: submitting the grant proposal=
+. Museum admissions barely covered the salary for her underpaid and overwor=
+ked staff. Year after year, the rafters rotted and the plaster cracked, and=
+ she had no funds to repair them or anything else. Either she got that gran=
+t, or her museum was done.</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 11 Dec 2017 08:01:29 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Chris Winkle, narrated by Dash Buck
+     =20
+    </aside>
+
+    <blockquote>
+        Thank goodness it was Sunday; the museum offices would be mercifull=
+y vacant. The back parking lot lay empty, the silence beguiling. No one wou=
+ld distract Rita from her critical mission: submitting the grant proposal. =
+Museum admissions barely covered the salary for her underpaid and overworke=
+d staff. Year after year, the rafters rotted and the plaster cracked, and s=
+he had no funds to repair them or anything else. Either she got that grant,=
+ or her museum was done.
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+3/MST-ambush-at-the-office-winkle-buck.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/stories/red-ri=
+ding-hoods-bargain/">Red Riding Hood=E2=80=99s Bargain</a></h3>
+   =20
+      <h4>Moonlit snow blew into Red=E2=80=99s face, nearly obliterating th=
+e paw prints before her. The other Woodsmen had deemed it suicide to track =
+such a beast in the dead of night and the driving snow. The creature=E2=80=
+=99s eyes would be unhindered by the darkness, and snow would muffle the so=
+und of approaching paws. </h4>
+   =20
+
+    <aside style=3D"float:right">
+      Mon, 27 Nov 2017 08:01:15 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Written by Oren Ashkenazi, narrated by MJ Carlson
+     =20
+    </aside>
+
+    <blockquote>
+        Moonlit snow blew into Red=E2=80=99s face, nearly obliterating the =
+paw prints before her. The other Woodsmen had deemed it suicide to track su=
+ch a beast in the dead of night and the driving snow. The creature=E2=80=99=
+s eyes would be unhindered by the darkness, and snow would muffle the sound=
+ of approaching paws.=20
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2017/0=
+4/MST-red-riding-hoods-bargain-ashkenazi-carlson.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+        <a href=3D"odysseus:view?tag=3D%20%20%20%20%20%20%20%20%20%20%20%20=
+%20%20%20%20&amp;url=3Dhttp://staging.mythcreants.com/feed/?post_type=3Dsto=
+ry">
+                </a>
+     =20
+    </nav></section>
+   =20
+ =20
+  </main>
+
+  <footer>
+    <nav>
+     =20
+       =20
+       =20
+
+       =20
+         =20
+       =20
+       =20
+         =20
+       =20
+        <em>Mon, 02 Apr 2018 07:01:23 +0000
+          =E2=80=94
+          Mon, 27 Nov 2017 08:01:15 +0000</em>
+       =20
+         =20
+       =20
+       =20
+         =20
+       =20
+     =20
+    </nav>
+    <p>
+     =20
+     =20
+     =20
+     =20
+    </p>
+  </footer>
+
+ =20
+
+
+
+
+
+   =20
+   =20
+
+</body></html>
+------=_NextPart_000_BF78_CE21633F.E8A18150
+Content-Type: text/css
+Content-Transfer-Encoding: base64
+Content-Location: odysseus:butterick.css
+
+Ym9keSB7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC12YXJpYW50LWNhcHM6IG5vcm1hbDsgZm9u
+dC13ZWlnaHQ6IG5vcm1hbDsgZm9udC1zdHJldGNoOiBub3JtYWw7IGZvbnQtc2l6ZTogMTRweDsg
+bGluZS1oZWlnaHQ6IG5vcm1hbDsgZm9udC1mYW1pbHk6IHNhbnMtc2VyaWY7IGNvbG9yOiByZ2Io
+NTEsIDUxLCA1MSk7IH0KCmJvZHkgPiBuYXYgeyBib3JkZXItYm90dG9tLXdpZHRoOiB0aGluOyBi
+b3JkZXItYm90dG9tLXN0eWxlOiBzb2xpZDsgYm9yZGVyLWJvdHRvbS1jb2xvcjogZ3JheTsgcGFk
+ZGluZzogMTBweCAwcHg7IHRleHQtYWxpZ246IGxlZnQ7IH0KClthcmlhLWhpZGRlbl0geyBkaXNw
+bGF5OiBub25lOyB9CgptYWluIHsgbWF4LXdpZHRoOiA2MDBweDsgbWFyZ2luOiAwcHggYXV0bzsg
+ZGlzcGxheTogZmxleDsgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsganVzdGlmeS1jb250ZW50OiBj
+ZW50ZXI7IG1pbi1oZWlnaHQ6IDkwdmg7IH0KCm1haW4gaDEsIG1haW4gaDIsIG1haW4gaDMsIG1h
+aW4gaDQgeyB0ZXh0LWFsaWduOiBjZW50ZXI7IH0KCmlucHV0W3R5cGU9InNlYXJjaCJdOjotd2Vi
+a2l0LXNlYXJjaC1kZWNvcmF0aW9uIHsgd2lkdGg6IDE2cHg7IGhlaWdodDogMTZweDsgbWFyZ2lu
+OiAwcHggMnB4OyBhbGlnbi1zZWxmOiBjZW50ZXI7IGJhY2tncm91bmQtaW1hZ2U6IHVybChpY29u
+OjE2L3N5c3RlbS1zZWFyY2gtc3ltYm9saWMpOyAtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7IH0K
+Cm1haW4gbmF2IHsgdGV4dC1hbGlnbjogY2VudGVyOyB9Cgpmb290ZXIgeyB0ZXh0LWFsaWduOiBj
+ZW50ZXI7IHdpZHRoOiAxMDAlOyB9CgpmaWd1cmUgeyBwb3NpdGlvbjogcmVsYXRpdmU7IGRpc3Bs
+YXk6IGlubGluZS1ibG9jazsgbWFyZ2luOiA0cHg7IHBhZGRpbmc6IDBweDsgfQoKZmlndXJlIGZv
+cm0geyBwb3NpdGlvbjogYWJzb2x1dGU7IGJvdHRvbTogMHB4OyBiYWNrZ3JvdW5kLWNvbG9yOiB3
+aGl0ZTsgdmlzaWJpbGl0eTogaGlkZGVuOyBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBpbml0aWFsIGlu
+aXRpYWw7IGJhY2tncm91bmQtcmVwZWF0OiBpbml0aWFsIGluaXRpYWw7IH0KCmZpZ3VyZSBmb3Jt
+Om50aC1vZi10eXBlKDEpIHsgbGVmdDogMHB4OyB9CgpmaWd1cmUgZm9ybTpudGgtb2YtdHlwZSgy
+KSB7IHJpZ2h0OiAwcHg7IH0KCmZpZ3VyZTpob3ZlciBmb3JtIHsgdmlzaWJpbGl0eTogdmlzaWJs
+ZTsgfQoKaW5wdXRbdHlwZT0ibnVtYmVyIl0geyB3aWR0aDogMjBweDsgfQoKaDEgeyBmb250LXNp
+emU6IDI0MCU7IH0KCmgyIHsgZm9udC13ZWlnaHQ6IDMwMDsgZm9udC1zaXplOiAxODAlOyB9Cgpo
+MyB7IGZvbnQtc2l6ZTogMTEwJTsgfQoKaDQgeyBmb250LXdlaWdodDogYm9sZDsgdGV4dC1zaGFk
+b3c6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC40KSAwcHggMXB4OyBwYWRkaW5nLWJvdHRvbTogNnB4
+OyBwYWRkaW5nLXRvcDogNnB4OyB9CgpzcGFuW3RpdGxlXSB7IGJvcmRlci1ib3R0b20td2lkdGg6
+IHRoaW47IGJvcmRlci1ib3R0b20tc3R5bGU6IGRvdHRlZDsgYm9yZGVyLWJvdHRvbS1jb2xvcjog
+Z3JheTsgY3Vyc29yOiBoZWxwOyB9CgpociB7IHdpZHRoOiAxMDAlOyB9
+------=_NextPart_000_BF78_CE21633F.E8A18150
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: icon:16/system-search-symbolic
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAWZJREFU
+OI2lkT1OG1EUhb9zJS8hpoOQigLc0/KTwm0WAJY9Y7MDUBYA6VO8sWUZqGlSkCBFWQKFJSPRgUWB
+gC3guSkYg8EzhIhTvfd0zqd73oV3SpOXVqv1MU3THaAKzAA3wLGZ7YUQLl8FxHH8GTgC+sCBu18C
+88CGpIqkL0mS/M4FNBqNeTPrS/qeJMlXwCc9URTtStoajUaVbrc7nAQYgJltA/2cMIB3Op0dYJD5
+mAIAVUn7OeFHiLvvS6oWAcruflUQfughDYFyEeAGmH0N4O5zwPDl+xjw0903ebHW5wOoJukkF2Bm
+e5IqURTt5kAUx/E3YFnSwRR5fGg2m+vufgQMMuOFu38CNoDlzHZmZishhNspAEC9Xp8zs+3st8tZ
+519mdpim6SGwyMM6V8eQos5TqtVqH0ql0h9gCTgHVtrt9rX9I/eoXq93Z2ZrwABYAH7A0xbepBDC
+rZmtSjoF7v8nW6i/uWdx2MqbtMUAAAAASUVORK5CYII=
+------=_NextPart_000_BF78_CE21633F.E8A18150
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: icon:32/audio-x-generic
+
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAjhJREFU
+WIXdls9rE0EUxz+zm8QFf6CoBKstKGKsHtSjycF/QSyCN/+NCoKevCj05H/gwbPgxZvQ6r0VNIKg
+gm1yqSIlipmZ5yHb/NiZ3W6SjYpfGJZ5b9+87/uxb0fh4ipQ8siLgAZeDwt8jsoi8nIW3pVS15Iy
+HwHV6XQwxhTqPAxDAJWLgIggIoUSiM/LRYAZEnDgzUCWwZT4T0ugzC9U+x3qywbB1hvo/qS7tOIj
+4GCyDIhFtZs9h5sb0GqirO6pAFTg2I+TAeelJIIXj1Af1gYOh55xCGmmztmB763dDHiXtfB+FdHG
+Wba8H3u6jhjrtfVh/BKIYHU3tq4gJy7AwhVk4TIcP9OL6vHqdCXYk4CxyNIDOHkRwnJCb7HaTN8D
+WQTEWpi/1N87em1c+dDZexHI/gxFEC2oLL1x9YX2AHGTpROwTgaK7QGtCTJ7xDj64iZh3ITDKZZv
+LeT5CvJ5HQ4cBW2nK4Hf8wDWWMKhvXl6F9ls9jY/dqAcjeizzs5VAvnawjx7CJ/W4eCx/qDpE9re
+Aj24wKhTZ3N/hr5JqJITrPvkDubtK0xnB9P+iLWj+vD6MnJ4DilFUGsQ3LyXNgkn6wGz3RqJMJg/
+NxphrU6pVvdFnLofKwPhjWU4MoeU9sH5BuGt+9n/i5SVNwNODwSLDYLFRq6I0jBWCSZxMCn+ySvZ
+HyWQ2oRFY6weiKKIKIoKJ+FDkkAAVKrV6u0Z+avEPuyuIJkSBRzyECsKGvhO4g77V/Ebo3sMgdJA
+Fv0AAAAASUVORK5CYII=
+------=_NextPart_000_BF78_CE21633F.E8A18150--

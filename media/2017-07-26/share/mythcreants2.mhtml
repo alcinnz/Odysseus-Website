@@ -1,0 +1,735 @@
+From: <Saved by WebKit>
+Subject: The Mythcreant Podcast
+Date: Tue, 27 Aug 2018 07:15:51 +1200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_3CBF_2F57F5A5.73CFE310"
+
+------=_NextPart_000_3CBF_2F57F5A5.73CFE310
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: odysseus:view?url=http%3A%2F%2Fstaging.mythcreants.com%2Ffeed%2F%3Fcat%3D62
+
+<html><head><meta charset=3D"UTF-8">
+  <title>The Mythcreant Podcast</title>
+  <link rel=3D"alternate" type=3D"text/xml" href=3D"http://staging.mythcrea=
+nts.com/feed/?cat=3D62">
+  <base href=3D"http://staging.mythcreants.com/feed/?cat=3D62">
+  <style>
+    @import url("odysseus:butterick.css");
+
+    a[href^=3D"mailto:"]:before {content: url(icon:16/mail-send);}
+    a[href^=3D"odysseus:view?tag=3D"]:before {content: url(icon:16/tag);}
+    iframe {
+      width: 100%;
+      height: 200px;
+      resize: vertical;
+    }
+    blockquote {clear: both; white-space: pre-wrap;}
+    img {max-width: 100%; max-height: 200px;}
+  </style>
+ =20
+</head>
+<body>
+ =20
+ =20
+
+ =20
+
+  <h1><a href=3D"http://staging.mythcreants.com/feed/?cat=3D62">The Mythcre=
+ant Podcast</a></h1>
+   =20
+      <h2>Every week, the Mythcreants geek out about fantasy, science ficti=
+on, and storytelling.</h2>
+   =20
+
+    <aside style=3D"float:right">
+     =20
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Mythcreants
+     =20
+    </aside>
+
+    <blockquote>
+        Fantasy &amp; Science Fiction for Storytellers
+    </blockquote>
+
+    <nav>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DArts%20&amp;%20Entertainment&amp;url=
+=3Dhttp://staging.mythcreants.com/feed/?cat=3D62">Arts &amp; Entertainment<=
+/a>
+     =20
+        <a href=3D"odysseus:view?tag=3DArts&amp;url=3Dhttp://staging.mythcr=
+eants.com/feed/?cat=3D62">Arts</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DGames%20&amp;%20Hobbies&amp;url=3Dht=
+tp://staging.mythcreants.com/feed/?cat=3D62">Games &amp; Hobbies</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DTV%20&amp;%20Film&amp;url=3Dhttp://s=
+taging.mythcreants.com/feed/?cat=3D62">TV &amp; Film</a>
+     =20
+    </nav>
+ =20
+    <aside><form action=3D"odysseus:view" method=3D"GET">
+      <input type=3D"hidden" name=3D"url" value=3D"http://staging.mythcrean=
+ts.com/feed/?cat=3D62">
+      <dl>
+     =20
+        <dt>Authors</dt>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Mythcreants=
+" id=3D"author-ec5067deff743ca1bf2b87d0451a3563">
+            <label for=3D"author-ec5067deff743ca1bf2b87d0451a3563">Mythcrea=
+nts</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Oren Ashken=
+azi, Ariel Anderson and Chris Winkle" id=3D"author-c2b6c25fefec9134fa3205d5=
+ab3be673">
+            <label for=3D"author-c2b6c25fefec9134fa3205d5ab3be673">Oren Ash=
+kenazi, Ariel Anderson And Chris Winkle</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Oren Ashken=
+azi, Chris Winkle and Ariel Anderson" id=3D"author-5f28d6550db634b13d66d47b=
+e29e98ea">
+            <label for=3D"author-5f28d6550db634b13d66d47be29e98ea">Oren Ash=
+kenazi, Chris Winkle And Ariel Anderson</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Oren Ashken=
+azi, Chris Winkle and Wes Matlock" id=3D"author-6ab8af40104e20c4d5acc38c5e7=
+66d30">
+            <label for=3D"author-6ab8af40104e20c4d5acc38c5e766d30">Oren Ash=
+kenazi, Chris Winkle And Wes Matlock</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Oren Ashken=
+azi, Chris Winkle, Johnathan Preshaw and Michelle Christine Heiner" id=3D"a=
+uthor-f3d5f585519a534c2204fd9b6bdc6ae9">
+            <label for=3D"author-f3d5f585519a534c2204fd9b6bdc6ae9">Oren Ash=
+kenazi, Chris Winkle, Johnathan Preshaw And Michelle Christine Heiner</labe=
+l></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"author" value=3D"Oren Ashken=
+azi, Wes Matlock and Chris Winkle" id=3D"author-0438516b49d1c85474890e3bbec=
+d0ccc">
+            <label for=3D"author-0438516b49d1c85474890e3bbecd0ccc">Oren Ash=
+kenazi, Wes Matlock And Chris Winkle</label></dd>
+       =20
+     =20
+     =20
+        <dt>Tags</dt>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"" id=3D"tag-d4=
+1d8cd98f00b204e9800998ecf8427e">
+            <label for=3D"tag-d41d8cd98f00b204e9800998ecf8427e"></label></d=
+d>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"
+    =09
+    " id=3D"tag-d573b94779af6e93939d73e6da28aef5">
+            <label for=3D"tag-d573b94779af6e93939d73e6da28aef5">
+    =09
+    </label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Arts &amp; Ent=
+ertainment" id=3D"tag-35da26f9ba04d1933eff5c9806764928">
+            <label for=3D"tag-35da26f9ba04d1933eff5c9806764928">Arts &amp; =
+Entertainment</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Chemistry" id=
+=3D"tag-84cf6008945c9b558ed7c0869557b70d">
+            <label for=3D"tag-84cf6008945c9b558ed7c0869557b70d">Chemistry</=
+label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Description" i=
+d=3D"tag-b5a7adde1af5c87d7fd797b6245c2a39">
+            <label for=3D"tag-b5a7adde1af5c87d7fd797b6245c2a39">Description=
+</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Exercises" id=
+=3D"tag-044d5c091ae09a306f228980cfedfc2b">
+            <label for=3D"tag-044d5c091ae09a306f228980cfedfc2b">Exercises</=
+label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Player Tips" i=
+d=3D"tag-53f3dde6d4f5e32e187f3d7772d47087">
+            <label for=3D"tag-53f3dde6d4f5e32e187f3d7772d47087">Player Tips=
+</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Podcast" id=3D=
+"tag-47963f1632070d7c31ba16b99857ae9e">
+            <label for=3D"tag-47963f1632070d7c31ba16b99857ae9e">Podcast</la=
+bel></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Roleplaying Se=
+ssion" id=3D"tag-da07cccefa72926a99e5a3950553d663">
+            <label for=3D"tag-da07cccefa72926a99e5a3950553d663">Roleplaying=
+ Session</label></dd>
+       =20
+          <dd><input type=3D"checkbox" name=3D"tag" value=3D"Weapons" id=3D=
+"tag-8a90c0eea4a6a26a919d1936e06b4920">
+            <label for=3D"tag-8a90c0eea4a6a26a919d1936e06b4920">Weapons</la=
+bel></dd>
+       =20
+     =20
+      <button type=3D"submit"><img src=3D"icon:16/system-search-symbolic"> =
+Search</button>
+    </dl></form></aside>
+ =20
+  <main>
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/unknown-a=
+rmies-session-part-1/">Unknown Armies: Session, Part 1</a></h3>
+   =20
+      <h4>Now that everyone=E2=80=99s characters are finished, it=E2=80=99s=
+ time to get this session on the road. In this first part, we meet the PCs =
+and learn what makes them special. Or at least, we learn what makes them we=
+ird enough to do magic. Listen in awe [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Tue, 17 Jul 2018 07:01:56 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle, Johnathan Preshaw and Michelle Christin=
+e Heiner
+     =20
+    </aside>
+
+    <blockquote>
+        Now that everyone=E2=80=99s characters are finished, it=E2=80=99s t=
+ime to get this session on the road. In this first part, we meet the PCs an=
+d learn what makes them special. Or at least, we learn what makes them weir=
+d enough to do magic. Listen in awe [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+6/MOS-4-Unknown-Armies-3.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DRoleplaying%20Session&amp;url=3Dhttp=
+://staging.mythcreants.com/feed/?cat=3D62">Roleplaying Session</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/179-keepi=
+ng-your-manuscript-smooth/">179 =E2=80=93 Keeping Your Manuscript Smooth</a=
+></h3>
+   =20
+      <h4>Have you ever had a beta reader ask you a question about a scene =
+you don=E2=80=99t remember having in your story, only to find out it was an=
+ artifact from a previous draft? Not only is that embarrassing, but it can =
+also cost you time [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Sun, 15 Jul 2018 07:01:11 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Ariel Anderson and Chris Winkle
+     =20
+    </aside>
+
+    <blockquote>
+        Have you ever had a beta reader ask you a question about a scene yo=
+u don=E2=80=99t remember having in your story, only to find out it was an a=
+rtifact from a previous draft? Not only is that embarrassing, but it can al=
+so cost you time [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+7/TMP-179-Keeping-Your-Manuscript-Smooth.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DExercises&amp;url=3Dhttp://staging.m=
+ythcreants.com/feed/?cat=3D62">Exercises</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/unknown-a=
+rmies-character-creation-part-2/">Unknown Armies: Character Creation, Part =
+2</a></h3>
+   =20
+      <h4>Last week was the first half of character creation, and this week=
+ we continue the charge. It=E2=80=99s time to put another few notches in ou=
+r hardened meters, define our obsessions, and figure out what kind of game =
+we=E2=80=99re playing. And it seems we=E2=80=99re playing a [=E2=80=A6]</h4=
+>
+   =20
+
+    <aside style=3D"float:right">
+      Tue, 10 Jul 2018 07:01:09 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle, Johnathan Preshaw and Michelle Christin=
+e Heiner
+     =20
+    </aside>
+
+    <blockquote>
+        Last week was the first half of character creation, and this week w=
+e continue the charge. It=E2=80=99s time to put another few notches in our =
+hardened meters, define our obsessions, and figure out what kind of game we=
+=E2=80=99re playing. And it seems we=E2=80=99re playing a [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+5/MOS-3-Unknown-Armies-2.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DRoleplaying%20Session&amp;url=3Dhttp=
+://staging.mythcreants.com/feed/?cat=3D62">Roleplaying Session</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/178-descr=
+ibing-the-environment/">178 =E2=80=93 Describing the Environment</a></h3>
+   =20
+      <h4>A story=E2=80=99s environment is vitally important, but how do we=
+ describe it? Too little description and the reader feels like the story ta=
+kes place in a blank white void. Too much description and the plot gets los=
+t. Should you use unusual and distinctive words, or [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Sun, 08 Jul 2018 07:01:08 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle and Ariel Anderson
+     =20
+    </aside>
+
+    <blockquote>
+        A story=E2=80=99s environment is vitally important, but how do we d=
+escribe it? Too little description and the reader feels like the story take=
+s place in a blank white void. Too much description and the plot gets lost.=
+ Should you use unusual and distinctive words, or [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+7/TMP-178-Describing-The-Environment.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/unknown-a=
+rmies-character-creation-part-1/">Unknown Armies: Character Creation, Part =
+1</a></h3>
+   =20
+      <h4>We=E2=80=99re back with the second installment of the Mythcreant =
+One Shot Podcast. Our game: Unknown Armies. It=E2=80=99s a game of occult h=
+orror, where reality ripples in time with the human mind. Power is availabl=
+e for the taking, and characters seek their deepest desire, only to [=E2=80=
+=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Tue, 03 Jul 2018 07:01:38 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle, Johnathan Preshaw and Michelle Christin=
+e Heiner
+     =20
+    </aside>
+
+    <blockquote>
+        We=E2=80=99re back with the second installment of the Mythcreant On=
+e Shot Podcast. Our game: Unknown Armies. It=E2=80=99s a game of occult hor=
+ror, where reality ripples in time with the human mind. Power is available =
+for the taking, and characters seek their deepest desire, only to [=E2=80=
+=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+5/MOS-2-1-Unknown-Armies.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DRoleplaying%20Session&amp;url=3Dhttp=
+://staging.mythcreants.com/feed/?cat=3D62">Roleplaying Session</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/177-creat=
+ing-character-chemistry/">177 =E2=80=93 Creating Character Chemistry</a></h=
+3>
+   =20
+      <h4>Characters that spend a lot of time together need to have a certa=
+in spark, a certain pop, a certain fizz. They need to interact in such a wa=
+y that makes us want to see them interact more. That=E2=80=99s character ch=
+emistry, and it=E2=80=99s what we=E2=80=99re talking [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Sun, 01 Jul 2018 07:01:05 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle and Wes Matlock
+     =20
+    </aside>
+
+    <blockquote>
+        Characters that spend a lot of time together need to have a certain=
+ spark, a certain pop, a certain fizz. They need to interact in such a way =
+that makes us want to see them interact more. That=E2=80=99s character chem=
+istry, and it=E2=80=99s what we=E2=80=99re talking [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+6/TMP-177-Creating-Character-Chemistry.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DChemistry&amp;url=3Dhttp://staging.m=
+ythcreants.com/feed/?cat=3D62">Chemistry</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/176-rpg-w=
+eapons/">176 =E2=80=93 RPG Weapons</a></h3>
+   =20
+      <h4>Have you ever wondered why a D&amp;D longsword does 1d8 damage? O=
+r why slings are a simple weapon but repeating crossbows are an exotic weap=
+on? Well, wonder no more, because this week we=E2=80=99re talking about all=
+ things related to weapons in roleplaying games. How much [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Sun, 24 Jun 2018 07:01:39 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle and Wes Matlock
+     =20
+    </aside>
+
+    <blockquote>
+        Have you ever wondered why a D&amp;D longsword does 1d8 damage? Or =
+why slings are a simple weapon but repeating crossbows are an exotic weapon=
+? Well, wonder no more, because this week we=E2=80=99re talking about all t=
+hings related to weapons in roleplaying games. How much [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+6/TMP-176-RPG-Weapons.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DWeapons&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Weapons</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/175-fight=
+-scenes/">175 =E2=80=93 Fight Scenes</a></h3>
+   =20
+      <h4>Pow, biff, ka-bam! That=E2=80=99s right, it=E2=80=99s time to tal=
+k about fight scenes. These are a staple of speculative fiction, and the mo=
+vies make them look so easy! But anyone who=E2=80=99s ever written one know=
+s that=E2=80=99s not the case, so today we=E2=80=99re discussing tips for m=
+aking [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Sun, 17 Jun 2018 07:01:27 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle and Wes Matlock
+     =20
+    </aside>
+
+    <blockquote>
+        Pow, biff, ka-bam! That=E2=80=99s right, it=E2=80=99s time to talk =
+about fight scenes. These are a staple of speculative fiction, and the movi=
+es make them look so easy! But anyone who=E2=80=99s ever written one knows =
+that=E2=80=99s not the case, so today we=E2=80=99re discussing tips for mak=
+ing [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+6/TMP-175-Fight-Scenes.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DDescription&amp;url=3Dhttp://staging=
+.mythcreants.com/feed/?cat=3D62">Description</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/174-reaso=
+ns-to-roleplay/">174 =E2=80=93 Reasons to Roleplay</a></h3>
+   =20
+      <h4>We love roleplaying, and we make no secret of it. In fact, we sho=
+ut it from the rooftops whenever possible. But what are our reasons for pla=
+ying in the first place? That=E2=80=99s what we=E2=80=99re talking about to=
+day. We discuss what first drew us to roleplaying, [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Sun, 10 Jun 2018 07:01:12 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Chris Winkle and Wes Matlock
+     =20
+    </aside>
+
+    <blockquote>
+        We love roleplaying, and we make no secret of it. In fact, we shout=
+ it from the rooftops whenever possible. But what are our reasons for playi=
+ng in the first place? That=E2=80=99s what we=E2=80=99re talking about toda=
+y. We discuss what first drew us to roleplaying, [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+5/TMP-174-Reasons-to-Roleplay.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+        <a href=3D"odysseus:view?tag=3DPlayer%20Tips&amp;url=3Dhttp://stagi=
+ng.mythcreants.com/feed/?cat=3D62">Player Tips</a>
+     =20
+    </nav></section>
+   =20
+ =20
+   =20
+      <section><h3><a href=3D"http://staging.mythcreants.com/blog/173-quest=
+-narratives/">173 =E2=80=93 Quest Narratives</a></h3>
+   =20
+      <h4>This week, we=E2=80=99re talking about quests, and not the kind w=
+here you go out and kill ten boars. These quests are the stuff of legends, =
+of great heroes venturing out to seek a relic of power. Or of a young child=
+ taking a gift basket [=E2=80=A6]</h4>
+   =20
+
+    <aside style=3D"float:right">
+      Sun, 03 Jun 2018 07:00:18 +0000
+     =20
+    </aside>
+    <aside style=3D"float:left">
+      Oren Ashkenazi, Wes Matlock and Chris Winkle
+     =20
+    </aside>
+
+    <blockquote>
+        This week, we=E2=80=99re talking about quests, and not the kind whe=
+re you go out and kill ten boars. These quests are the stuff of legends, of=
+ great heroes venturing out to seek a relic of power. Or of a young child t=
+aking a gift basket [=E2=80=A6]
+    </blockquote>
+
+    <nav>
+     =20
+        <a href=3D"http://staging.mythcreants.com/wp-content/uploads/2018/0=
+5/TMP-173-Quest-Narratives.mp3">
+          <img src=3D"icon:32/audio-x-generic" alt=3D"audio/mpeg
+                    ">
+        </a>
+     =20
+     =20
+        <a href=3D"odysseus:view?tag=3DPodcast&amp;url=3Dhttp://staging.myt=
+hcreants.com/feed/?cat=3D62">Podcast</a>
+     =20
+    </nav></section>
+   =20
+ =20
+  </main>
+
+  <footer>
+    <nav>
+     =20
+       =20
+       =20
+
+       =20
+         =20
+       =20
+       =20
+         =20
+       =20
+        <em>Tue, 17 Jul 2018 07:01:56 +0000
+          =E2=80=94
+          Sun, 03 Jun 2018 07:00:18 +0000</em>
+       =20
+         =20
+       =20
+       =20
+         =20
+       =20
+     =20
+    </nav>
+    <p>
+     =20
+     =20
+     =20
+     =20
+    </p>
+  </footer>
+
+ =20
+
+
+
+
+
+   =20
+   =20
+
+</body></html>
+------=_NextPart_000_3CBF_2F57F5A5.73CFE310
+Content-Type: text/css
+Content-Transfer-Encoding: base64
+Content-Location: odysseus:butterick.css
+
+Ym9keSB7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC12YXJpYW50LWNhcHM6IG5vcm1hbDsgZm9u
+dC13ZWlnaHQ6IG5vcm1hbDsgZm9udC1zdHJldGNoOiBub3JtYWw7IGZvbnQtc2l6ZTogMTRweDsg
+bGluZS1oZWlnaHQ6IG5vcm1hbDsgZm9udC1mYW1pbHk6IHNhbnMtc2VyaWY7IGNvbG9yOiByZ2Io
+NTEsIDUxLCA1MSk7IH0KCmJvZHkgPiBuYXYgeyBib3JkZXItYm90dG9tLXdpZHRoOiB0aGluOyBi
+b3JkZXItYm90dG9tLXN0eWxlOiBzb2xpZDsgYm9yZGVyLWJvdHRvbS1jb2xvcjogZ3JheTsgcGFk
+ZGluZzogMTBweCAwcHg7IHRleHQtYWxpZ246IGxlZnQ7IH0KClthcmlhLWhpZGRlbl0geyBkaXNw
+bGF5OiBub25lOyB9CgptYWluIHsgbWF4LXdpZHRoOiA2MDBweDsgbWFyZ2luOiAwcHggYXV0bzsg
+ZGlzcGxheTogZmxleDsgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsganVzdGlmeS1jb250ZW50OiBj
+ZW50ZXI7IG1pbi1oZWlnaHQ6IDkwdmg7IH0KCm1haW4gaDEsIG1haW4gaDIsIG1haW4gaDMsIG1h
+aW4gaDQgeyB0ZXh0LWFsaWduOiBjZW50ZXI7IH0KCmlucHV0W3R5cGU9InNlYXJjaCJdOjotd2Vi
+a2l0LXNlYXJjaC1kZWNvcmF0aW9uIHsgd2lkdGg6IDE2cHg7IGhlaWdodDogMTZweDsgbWFyZ2lu
+OiAwcHggMnB4OyBhbGlnbi1zZWxmOiBjZW50ZXI7IGJhY2tncm91bmQtaW1hZ2U6IHVybChpY29u
+OjE2L3N5c3RlbS1zZWFyY2gtc3ltYm9saWMpOyAtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7IH0K
+Cm1haW4gbmF2IHsgdGV4dC1hbGlnbjogY2VudGVyOyB9Cgpmb290ZXIgeyB0ZXh0LWFsaWduOiBj
+ZW50ZXI7IHdpZHRoOiAxMDAlOyB9CgpmaWd1cmUgeyBwb3NpdGlvbjogcmVsYXRpdmU7IGRpc3Bs
+YXk6IGlubGluZS1ibG9jazsgbWFyZ2luOiA0cHg7IHBhZGRpbmc6IDBweDsgfQoKZmlndXJlIGZv
+cm0geyBwb3NpdGlvbjogYWJzb2x1dGU7IGJvdHRvbTogMHB4OyBiYWNrZ3JvdW5kLWNvbG9yOiB3
+aGl0ZTsgdmlzaWJpbGl0eTogaGlkZGVuOyBiYWNrZ3JvdW5kLXBvc2l0aW9uOiBpbml0aWFsIGlu
+aXRpYWw7IGJhY2tncm91bmQtcmVwZWF0OiBpbml0aWFsIGluaXRpYWw7IH0KCmZpZ3VyZSBmb3Jt
+Om50aC1vZi10eXBlKDEpIHsgbGVmdDogMHB4OyB9CgpmaWd1cmUgZm9ybTpudGgtb2YtdHlwZSgy
+KSB7IHJpZ2h0OiAwcHg7IH0KCmZpZ3VyZTpob3ZlciBmb3JtIHsgdmlzaWJpbGl0eTogdmlzaWJs
+ZTsgfQoKaW5wdXRbdHlwZT0ibnVtYmVyIl0geyB3aWR0aDogMjBweDsgfQoKaDEgeyBmb250LXNp
+emU6IDI0MCU7IH0KCmgyIHsgZm9udC13ZWlnaHQ6IDMwMDsgZm9udC1zaXplOiAxODAlOyB9Cgpo
+MyB7IGZvbnQtc2l6ZTogMTEwJTsgfQoKaDQgeyBmb250LXdlaWdodDogYm9sZDsgdGV4dC1zaGFk
+b3c6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC40KSAwcHggMXB4OyBwYWRkaW5nLWJvdHRvbTogNnB4
+OyBwYWRkaW5nLXRvcDogNnB4OyB9CgpzcGFuW3RpdGxlXSB7IGJvcmRlci1ib3R0b20td2lkdGg6
+IHRoaW47IGJvcmRlci1ib3R0b20tc3R5bGU6IGRvdHRlZDsgYm9yZGVyLWJvdHRvbS1jb2xvcjog
+Z3JheTsgY3Vyc29yOiBoZWxwOyB9CgpociB7IHdpZHRoOiAxMDAlOyB9
+------=_NextPart_000_3CBF_2F57F5A5.73CFE310
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: icon:16/system-search-symbolic
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAWZJREFU
+OI2lkT1OG1EUhb9zJS8hpoOQigLc0/KTwm0WAJY9Y7MDUBYA6VO8sWUZqGlSkCBFWQKFJSPRgUWB
+gC3guSkYg8EzhIhTvfd0zqd73oV3SpOXVqv1MU3THaAKzAA3wLGZ7YUQLl8FxHH8GTgC+sCBu18C
+88CGpIqkL0mS/M4FNBqNeTPrS/qeJMlXwCc9URTtStoajUaVbrc7nAQYgJltA/2cMIB3Op0dYJD5
+mAIAVUn7OeFHiLvvS6oWAcruflUQfughDYFyEeAGmH0N4O5zwPDl+xjw0903ebHW5wOoJukkF2Bm
+e5IqURTt5kAUx/E3YFnSwRR5fGg2m+vufgQMMuOFu38CNoDlzHZmZishhNspAEC9Xp8zs+3st8tZ
+519mdpim6SGwyMM6V8eQos5TqtVqH0ql0h9gCTgHVtrt9rX9I/eoXq93Z2ZrwABYAH7A0xbepBDC
+rZmtSjoF7v8nW6i/uWdx2MqbtMUAAAAASUVORK5CYII=
+------=_NextPart_000_3CBF_2F57F5A5.73CFE310
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: icon:32/audio-x-generic
+
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAjhJREFU
+WIXdls9rE0EUxz+zm8QFf6CoBKstKGKsHtSjycF/QSyCN/+NCoKevCj05H/gwbPgxZvQ6r0VNIKg
+gm1yqSIlipmZ5yHb/NiZ3W6SjYpfGJZ5b9+87/uxb0fh4ipQ8siLgAZeDwt8jsoi8nIW3pVS15Iy
+HwHV6XQwxhTqPAxDAJWLgIggIoUSiM/LRYAZEnDgzUCWwZT4T0ugzC9U+x3qywbB1hvo/qS7tOIj
+4GCyDIhFtZs9h5sb0GqirO6pAFTg2I+TAeelJIIXj1Af1gYOh55xCGmmztmB763dDHiXtfB+FdHG
+Wba8H3u6jhjrtfVh/BKIYHU3tq4gJy7AwhVk4TIcP9OL6vHqdCXYk4CxyNIDOHkRwnJCb7HaTN8D
+WQTEWpi/1N87em1c+dDZexHI/gxFEC2oLL1x9YX2AHGTpROwTgaK7QGtCTJ7xDj64iZh3ITDKZZv
+LeT5CvJ5HQ4cBW2nK4Hf8wDWWMKhvXl6F9ls9jY/dqAcjeizzs5VAvnawjx7CJ/W4eCx/qDpE9re
+Aj24wKhTZ3N/hr5JqJITrPvkDubtK0xnB9P+iLWj+vD6MnJ4DilFUGsQ3LyXNgkn6wGz3RqJMJg/
+NxphrU6pVvdFnLofKwPhjWU4MoeU9sH5BuGt+9n/i5SVNwNODwSLDYLFRq6I0jBWCSZxMCn+ySvZ
+HyWQ2oRFY6weiKKIKIoKJ+FDkkAAVKrV6u0Z+avEPuyuIJkSBRzyECsKGvhO4g77V/Ebo3sMgdJA
+Fv0AAAAASUVORK5CYII=
+------=_NextPart_000_3CBF_2F57F5A5.73CFE310--
