@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Odysseus Development Blog</title>
+  {% if paginator.previous_page %}<link rel="prev" href="{{ paginator.previous_page }}" />{% endif %}
+  {% if paginator.next_page %}<link rel="next" href="{{ paginator.next_page }}" />{% else %}<complete />{% endif %}
   <updated>{{ site.time|date_to_xml_schema }}</updated>
   <author>
     <name>Adrian Cochrane</name>
     <email>alcinnz@lavabit.com</name>
   </author>
 
-  {% for post in sites.posts %}<entry>
+  {% for post in paginator.posts %}<entry>
     <title>{{ post.title }}</title>
     <link href="{{ post.url|relative_url }}" />
     <updated>{{ post.date|date_to_xml_schema }}</updated>
