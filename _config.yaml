@@ -9,3 +9,5 @@ exclude: [README.md]
 collections:
     guides:
         output: true
+
+paginate: 20
