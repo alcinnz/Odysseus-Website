@@ -11,9 +11,9 @@
   <complete />
 
   {% for post in site.posts %}<entry>
-    <title>{{ post.title }}</title>
+    <title>{{ post.title|xml_escape }}</title>
     <link href="{{ post.url|relative_url }}" />
     <updated>{{ post.date|date_to_xml_schema }}</updated>
-    <summary>{{ post.excerpt }}</summary>
+    <summary type="xhtml">{{ post.excerpt }}</summary>
   </entry>{% endfor %}
 </feed>
