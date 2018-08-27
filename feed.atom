@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Odysseus Development Blog</title>
+  <updated>{{ site.time|date_to_xml_schema }}</updated>
+  <author>
+    <name>Adrian Cochrane</name>
+    <email>alcinnz@lavabit.com</name>
+  </author>
+
+  {% for post in sites.posts %}<entry>
+    <title>{{ post.title }}</title>
+    <link href="{{ post.url|relative_url }}" />
+    <updated>{{ post.date|date_to_xml_schema }}</updated>
+    <summary>{{ post.excerpt }}</summary>
+  </entry>{% endfor %}
+</feed>
