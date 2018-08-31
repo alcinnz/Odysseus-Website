@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repost: Browser diversity — Odysseus Development Blog"
+title: "Repost: Browser diversity — Odysseus Development Blog"
 posttitle: "Repost: The Ecological Impact of Browser Diversity"
 header: 1st Sept 2018 — Adrian Cochrane
 date: 2018-09-01 08:22:52 1200
