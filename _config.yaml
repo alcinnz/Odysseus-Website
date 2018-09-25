@@ -1,4 +1,4 @@
-baseurl: "/Odysseus"
+baseurl: "/"
 
 title: Odysseus web browser
 description: > # this means to ignore newlines until exclude:
