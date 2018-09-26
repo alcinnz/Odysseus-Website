@@ -3,7 +3,7 @@ layout: page
 title: Repost: Building a lowtech website — Odysseus Development Blog
 posttitle: Repost: How to Build a Low-tech Website?
 header: 26th Sept 2018 — Adrian Cochrane
-date: --2018-09-26 14:45:03 1200
+date: 2018-09-26 14:45:03 1200
 categories: repost
 ---
 
