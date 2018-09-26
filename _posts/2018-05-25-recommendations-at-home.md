@@ -7,9 +7,9 @@ date: 2018-05-26 12:33:30 1200
 categories: dev
 ---
 
-In my [last post](https://alcinnz.github.io/Odysseus/dev/2018/05/17/new-first-launch-site.html) I stated that I would next be incorporating [those recommendations](https://alcinnz.github.io/Odysseus-recommendations) into [the newtab page](odysseus:home). And just today I managed to do so, which means that a new update is coming very soon.
+In my [last post](/dev/2018/05/17/new-first-launch-site.html) I stated that I would next be incorporating [those recommendations](https://alcinnz.github.io/Odysseus-recommendations) into [the newtab page](odysseus:home). And just today I managed to do so, which means that a new update is coming very soon.
 
-I went down some dead-ends in developing this, and it required significant reworking of [my original ideas](https://alcinnz.github.io/Odysseus/dev/2018/04/20/prosody-fetch.html). So you can consider this post as superceding that last one on [Prosody](https://alcinnz.github.io/Odysseus/architecture/2017/07/21/prosody.html)'s `{ % fetch % }` tag.
+I went down some dead-ends in developing this, and it required significant reworking of [my original ideas](/dev/2018/04/20/prosody-fetch.html). So you can consider this post as superceding that last one on [Prosody](/architecture/2017/07/21/prosody.html)'s `{ % fetch % }` tag.
 
 ## The SQLite Dead-end
 SQLite has a *great* feature where their databases [are single files](https://sqlite.org/appfileformat.html), and as such can be downloaded from the web in a single request. And I originally thought it would be easiest to utilize this fact to combine the online database I've recently generated with your offline database. But in the end it turned out that approach doesn't work, and besides I wanted to do something a bit different.
