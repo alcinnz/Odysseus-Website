@@ -3,7 +3,7 @@ layout: post
 title: Hello odysseus.adrian.geek.nz! — Odysseus Development Blog
 posttitle: Hello odysseus.adrian.geek.nz!
 header: 26th Sept 2018 — Adrian Cochrane
-date: --2018-09-18 21:38:49 1200
+date: 2018-09-26 14:33:03 1200
 categories: meta
 ---
 
