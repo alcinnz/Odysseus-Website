@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Developers
+title: Odysseus Developer Center
+header: Developer Center
 ---
 
 # Odysseus Developer Center
