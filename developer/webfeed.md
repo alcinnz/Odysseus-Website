@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Adding a webfeed — Web Developers
+title: Adding a webfeed — Developers — Odysseus
+header: Adding a webfeed
 ---
 
 # Adding a webfeed to your site
