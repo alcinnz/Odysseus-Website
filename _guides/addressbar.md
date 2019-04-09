@@ -26,6 +26,6 @@ If you see ![error](icon:16/error) that means this webpage has failed to load, a
 
 If you see ![padlock](icon:16/security-high) it means the Internet connection between you and the website is secured, whereas ![broken padlock](icon:16/security-low) means that security was attempted but can't be guaranteed. On the other hand ![mask](icon:16/view-private) or ![harddisk](icon:16/computer) (depending on your OS) means the page originated from your computer and as such is entirely private.
 
-And if you see ![subscribe icon](https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-rss-feed-1.png&r=0&g=0&b=0) you can click it to see a list of all webfeeds on this page and the apps you have with which you can subscribe to it with. Clicking one of those app icons will subscribe to that feed via that app. Or if you do not have any compatible installed, Odysseus will show the icon for your package manager and clicking it will recommend compatible apps for you to install.
+And if you see ![subscribe icon](http://i5.photobucket.com/albums/y178/Karanan/RSS-transparent_zps76f340ef.png) you can click it to see a list of all webfeeds on this page and the apps you have with which you can subscribe to it with. Clicking one of those app icons will subscribe to that feed via that app. Or if you do not have any compatible installed, Odysseus will show the icon for your package manager and clicking it will recommend compatible apps for you to install.
 
 More icons may be shown to indicate that the webpage has asked for a given permission.
