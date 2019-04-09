@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Integrating your feedreader
+title: Integrating your feedreader — Developers — Odysseus
+header: Integrating your feedreader
 ---
 # Integrating your feedreader into Odysseus
 Do you really want people to have to copy and paste URLs into your feedreader? If not, Odysseus offers you a simple integration point based on [existing standards](https://www.freedesktop.org/wiki/Specifications/desktop-entry-spec/).
