@@ -22,7 +22,7 @@ You can select any of these options from the dropdown that appears as you type.
 ## Status Icons
 On the right of the addressbar is a set of icons indicating the status of the webpage.
 
-If you see ![error](icon:16/error-symbolic) that means this webpage has failed to load, and clicking it will toggle between showing Odysseus's error message and the website's one.
+If you see ![error](icon:16/error) that means this webpage has failed to load, and clicking it will toggle between showing Odysseus's error message and the website's one.
 
 If you see ![padlock](icon:16/security-high-symbolic) it means the Internet connection between you and the website is secured, whereas ![broken padlock](icon:16/security-low-symbolic) means that security was attempted but can't be guaranteed. On the other hand ![mask](icon:16/view-private-symbolic) or ![harddisk](icon:16/computer-symbolic) (depending on your OS) means the page originated from your computer and as such is entirely private.
 
