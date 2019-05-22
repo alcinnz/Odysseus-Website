@@ -7,6 +7,8 @@ header: Developer Center
 # Odysseus Developer Center
 Documentation on how to make your site work best with Odysseus.
 
+* [Web Design](webdesign.html) resources and advice
+
 ## Web Feeds
 A webfeed is an easy way to subscribe to website for updates, without needing a centralized service or to provide any contact information.
 
