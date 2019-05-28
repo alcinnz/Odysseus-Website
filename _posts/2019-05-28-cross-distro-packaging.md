@@ -39,8 +39,6 @@ As to the opponents who view this as against the spirit of software freedom, I h
 
 If you're worrying about being able to develop apps for any "Linux" system, it's hard to see a future where you can't do so. Though you'd have to acknowledge those apps may just be good rather than great. And if you're worrying about the birth of the next elementary OS, all that's needed is for users to swap the themes not the distros.
 
-tl;dr Don't expect 
-
 ---
 
 1. I tried creating one before, but it didn't have the packages and package versions I needed.
