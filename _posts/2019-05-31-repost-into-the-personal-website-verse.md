@@ -3,7 +3,7 @@ layout: page
 title: "Repost: Into the Personal-Website-Verse — Odysseus Development Blog"
 posttitle: "Repost: Into the Personal-Website-Verse"
 header: 31st May 2019 — Adrian Cochrane
-date: ...
+date: 2019-05-31 13:56:43 1200
 categories: repost
 ---
 
