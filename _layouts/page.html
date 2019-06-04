@@ -152,6 +152,12 @@ kbd {
   <main class="h-entry">
     {{ content }}
 
+    {% if page.date %}
+      <p style="text-align: right;">
+        <a href="https://adrian.geek.nz/" rel="author" class="p-author h-card">Adrian Cochrane</a> @
+        <a href="{{ page.url }}" class="u-url dt-published">{{ page.date }}</a>
+      </p>
+    {% endif %}
     {% if page.slug and page.layout != "guide" %}
       <hr />
       <h2><a href="https://github.com/alcinnz/Odysseus-recommendations/wiki/{{page.slug}}">Talk Page</a> for <q>{{ page.title }}</q></h2>
