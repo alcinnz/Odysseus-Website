@@ -8,7 +8,7 @@ header: About/Overview
 
 A simple and performant yet powerful [elementary OS](https://elementary.io/)-[style](https://elementary.io/docs/human-interface-guidelines) window onto the open decentralized web.
 
-<img src="screenshot.png" alt='Screenshot of Odysseus showcasing the "headerbar", tabbar, find-in-page, and downloads features.' />
+![Odysseus screenshot showing download and find](https://github.com/alcinnz/Odysseus/blob/master/data/Screenshot-download-find.png?raw=true)
 
 Odysseus is already and will continue to be a convenient, privacy-respecting,
 [ethically designed](https://2017.ind.ie/ethical-design/), and opensource
@@ -29,8 +29,9 @@ and to support the open decentralized web over the centralized services of today
 * DuckDuckGo integration
 * Browser history
 * Topsites with initial hand-curated recommendations
-* (in-progress) webfeed & feedreader integration
-* (planned) reader view
+* webfeed & feedreader integration
+* reader view
+* (planned) personalized recommendations
 * (planned) bookmarks
 * (planned) configurable integration of search engines (not just DuckDuckGo)
 * (planned) lightweight browser extensions
@@ -45,7 +46,7 @@ These features are completed to a high degree of polish.
 * Freedesktop.org MIME Info, MIME Apps, Desktop Entries, Icon Theme, & Icon Naming specs
 * X11, Wayland
 * AppStream
-* (in-progress) RSS, Atom
+* RSS, Atom
 * (planned) SKOS, Dublin Core
 * (planned) OpenSearch + RSS/Atom
 * (planned) payment links
