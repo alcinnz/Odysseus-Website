@@ -16,4 +16,29 @@ If you do nothing else, *always* make sure your sites work in multiple browsers.
 
 At a minimum you should be testing against the [Blink](https://www.chromium.org/blink), [Gecko](https://hg.mozilla.org/mozilla-central/), and [WebKit](https://webkit.org/) browser engines, which essentially means [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/), and [Odysseus](https://odysseus.adrian.geek.nz/)/[Midori](https://www.midori-browser.org/)/[Epiphany](https://wiki.gnome.org/Apps/Web)/[Safari](https://www.apple.com/safari/)/etc. For the latter you'll probably need a Mac or (my recommendation) "Linux" system on hand.
 
-Though I would also recommend testing in less mainstream browsers like [Lynx](https://lynx.browser.org/) and [NetSurf](http://www.netsurf-browser.org/).
+Though I would also recommend testing in less mainstream browsers like [Lynx](https://lynx.browser.org/) and [NetSurf](http://www.netsurf-browser.org/). In doing so don't worry that your sites will look different in these browsers, just that they still look good.
+
+### 2. Use Progressive Enhancement
+[Progressive](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/) [Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) is the idea that you should start with the raw functionality before adding layers of optional polish. With each successive layer benefitting slightly fewer people.
+
+In terms of web design these layers most coursely are:
+
+1. Text - works practically everywhere.
+2. HTML
+3. CSS
+4. Images, videos, etc
+5. JavaScript - will likely fail, be ill-suited to the target device, or (accessibility) not be perceivable by the user.
+
+This is vital for the emergence of new browser engines, and even novel displays, because none of them will support every web feature out of the box. By not requiring feature completeness to view pages you can allow these engines to grow. You're not on your own though, a certain level of graceful degradation (the flipside of progressive enhancement) is carefully woven throughout the HTML and CSS standards.
+
+### 3. Avoid JavaScript
+This has already been my most controversial prescription, but for the sake of [privacy](https://media.libreplanet.org/u/libreplanet/m/who-s-afraid-of-spectre-and-meltdown/), [security](https://mdsattacks.com/#accordion-tab-1-heading-11), and accessibility (discussed later) I stand by it.
+
+It seems clear that no new JavaScript engine can hope to catch up to the mainstream ones in terms of performance or API support, as such we should not expect them to. We should instead see how well recent web standards allow us to do without JavaScript, and failing that we should discuss [how new web standards](http://john.ankarstrom.se/replacing-javascript/) can help us move further away from JavaScript. Along that line I encourage you to check out [Intercooler.js](http://intercoolerjs.org/).
+
+### 4. Learn "Native" Toolkits
+The fundamental driver of browser bloat as I see it is a belief that the Web's hyperlinks, openness, and "universality" (the idea that it works great everywhere) means everything should be on the web. I disagree that these concepts have much meaning when applied outside of information, just as I disagree with the lack of design focus.
+
+I encourage you to [consider](https://www.smashingmagazine.com/2012/06/mobile-considerations-in-user-experience-design-web-or-native/) whether your project is better suited as a website or as a native app. Maybe you'll want to excell on a particular platform or maybe you'll want to create a decent app for a range of platforms, these are decisions you need to make. My rule of thumb for choosing web vs native is whether it'll more be information or behavior which attracts users.
+
+P.S. Native apps can still allow [links](https://odysseus.adrian.geek.nz/design/2018/06/02/app-suggestions.html) to it's contained information.
