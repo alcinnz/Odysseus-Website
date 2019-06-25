@@ -27,7 +27,7 @@ In terms of web design these layers most coursely are:
 2. HTML
 3. CSS
 4. Images, videos, etc
-5. JavaScript - will likely fail, be ill-suited to the target device, or (accessibility) not be perceivable by the user.
+5. JavaScript - will likely fail, be ill-suited to the tarhttps://odysseus.adrian.geek.nz/developer/web-bloat.htmlget device, or (accessibility) not be perceivable by the user.
 
 This is vital for the emergence of new browser engines, and even novel displays, because none of them will support every web feature out of the box. By not requiring feature completeness to view pages you can allow these engines to grow. You're not on your own though, a certain level of graceful degradation (the flipside of progressive enhancement) is carefully woven throughout the HTML and CSS standards.
 
@@ -35,6 +35,11 @@ This is vital for the emergence of new browser engines, and even novel displays,
 This has already been my most controversial prescription, but for the sake of [privacy](https://media.libreplanet.org/u/libreplanet/m/who-s-afraid-of-spectre-and-meltdown/), [security](https://mdsattacks.com/#accordion-tab-1-heading-11), and accessibility (discussed later) I stand by it.
 
 It seems clear that no new JavaScript engine can hope to catch up to the mainstream ones in terms of performance or API support, as such we should not expect them to. We should instead see how well recent web standards allow us to do without JavaScript, and failing that we should discuss [how new web standards](http://john.ankarstrom.se/replacing-javascript/) can help us move further away from JavaScript. Along that line I encourage you to check out [Intercooler.js](http://intercoolerjs.org/).
+
+#### Examples
+
+* [Pelican](https://mcss.mosra.cz/themes/pelican/)
+* [A JavaScript-Free Frontend](https://dev.to/winduptoy/a-javascript-free-frontend-2d3e) (blogpost)
 
 ### 4. Learn "Native" Toolkits
 The fundamental driver of browser bloat as I see it is a belief that the Web's hyperlinks, openness, and "universality" (the idea that it works great everywhere) means everything should be on the web. I disagree that these concepts have much meaning when applied outside of information, just as I disagree with the lack of design focus.
