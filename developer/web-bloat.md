@@ -46,4 +46,9 @@ The fundamental driver of browser bloat as I see it is a belief that the Web's h
 
 I encourage you to [consider](https://www.smashingmagazine.com/2012/06/mobile-considerations-in-user-experience-design-web-or-native/) whether your project is better suited as a website or as a native app. Maybe you'll want to excell on a particular platform or maybe you'll want to create a decent app for a range of platforms, these are decisions you need to make. My rule of thumb for choosing web vs native is whether it'll more be information or behavior which attracts users.
 
-P.S. Native apps can still allow [links](https://odysseus.adrian.geek.nz/design/2018/06/02/app-suggestions.html) to it's contained information.
+### 5. Provide Downloads & Use `mailto:`, Etc Links
+Currently if your information doesn't degrade nicely to static text or images (e.g. maps, video games, instant messaging, etc), we feel a need to create a JavaScript UI for it so it can be linked to. I can't honestly tell you to stop doing this, but I think we should transition to a better way of addressing these needs.
+
+Most platforms allow apps to register to handle specific MIMEtypes and URI schemes, and most browsers will dispatch links they can't handle accordingly. Handling more disperate communication needs this way is a much better way to distribute and coordinate the development effort.
+
+The problem is that the apps usually need to be already installed in order for the links to work, but [I've addressed this](https://odysseus.adrian.geek.nz/design/2018/06/02/app-suggestions.html) in Odysseus by helping people to install compatible apps using the AppStream standards. More browsers should adop this feature!
