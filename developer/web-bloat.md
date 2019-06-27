@@ -27,7 +27,7 @@ In terms of web design these layers most coursely are:
 2. HTML
 3. CSS
 4. Images, videos, etc
-5. JavaScript - will likely fail, be ill-suited to the tarhttps://odysseus.adrian.geek.nz/developer/web-bloat.htmlget device, or (accessibility) not be perceivable by the user.
+5. JavaScript - will likely fail, be ill-suited to the target device, or (accessibility) not be perceivable by the user.
 
 This is vital for the emergence of new browser engines, and even novel displays, because none of them will support every web feature out of the box. By not requiring feature completeness to view pages you can allow these engines to grow. You're not on your own though, a certain level of graceful degradation (the flipside of progressive enhancement) is carefully woven throughout the HTML and CSS standards.
 
