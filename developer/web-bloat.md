@@ -16,7 +16,7 @@ If you do nothing else, *always* make sure your sites work in multiple browsers.
 
 At a minimum you should be testing against the [Blink](https://www.chromium.org/blink), [Gecko](https://hg.mozilla.org/mozilla-central/), and [WebKit](https://webkit.org/) browser engines, which essentially means [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/), and [Odysseus](https://odysseus.adrian.geek.nz/)/[Midori](https://www.midori-browser.org/)/[Epiphany](https://wiki.gnome.org/Apps/Web)/[Safari](https://www.apple.com/safari/)/etc. For the latter you'll probably need a Mac or (my recommendation) "Linux" system on hand.
 
-Though I would also recommend testing in less mainstream browsers like [Lynx](https://lynx.browser.org/) and [NetSurf](http://www.netsurf-browser.org/). In doing so don't worry that your sites will look different in these browsers, just that they still look good.
+Though I would also recommend testing in less mainstream browsers like [Lynx](https://lynx.browser.org/), [Dillo](https://www.dillo.org/) and [NetSurf](http://www.netsurf-browser.org/). In doing so don't worry that your sites will look different in these browsers, just that they still look good.
 
 ### 2. Use Progressive Enhancement
 [Progressive](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/) [Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) is the idea that you should start with the raw functionality before adding layers of optional polish. With each successive layer benefitting slightly fewer people.
