@@ -51,4 +51,4 @@ Currently if your information doesn't degrade nicely to static text or images (e
 
 Most platforms allow apps to register to handle specific MIMEtypes and URI schemes, and most browsers will dispatch links they can't handle accordingly. Handling more disperate communication needs this way is a much better way to distribute and coordinate the development effort.
 
-The problem is that the apps usually need to be already installed in order for the links to work, but [I've addressed this](https://odysseus.adrian.geek.nz/design/2018/06/02/app-suggestions.html) in Odysseus by helping people to install compatible apps using the AppStream standards. More browsers should adop this feature!
+The problem is that the apps usually need to be already installed in order for the links to work, but [I've addressed this](https://odysseus.adrian.geek.nz/design/2018/06/02/app-suggestions.html) in Odysseus by helping people to install compatible apps using the AppStream standards. More browsers should adopt this feature!
