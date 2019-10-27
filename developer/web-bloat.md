@@ -9,7 +9,7 @@ header: Web Bloat
 ## Addressing Web Bloat for WebDevs
 [Browser engine divirsity](https://css-tricks.com/the-ecological-impact-of-browser-diversity/) has been [collapsing](https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/), and I blame even the fact we're worrying about this on the sheer complexity of modern browser engines. Which gets entrenched thanks to webdevs embracing all the features of mainstream browser engines.
 
-This article advises concerned webdevs how to address these issues in their everyday work.
+This article advises concerned webdevs how to address these [issues](https://www.devever.net/~hl/xhtml2) in their everyday work.
 
 ### 1. Test in Multiple Browsers
 If you do nothing else, *always* make sure your sites work in multiple browsers. Because any time one of your sites break outside of Google Chrome you're contributing to a Google monopoly.
@@ -34,7 +34,7 @@ This is vital for the emergence of new browser engines, and even novel displays,
 ### 3. Avoid JavaScript
 This has already been my most controversial prescription, but for the sake of [privacy](https://media.libreplanet.org/u/libreplanet/m/who-s-afraid-of-spectre-and-meltdown/), [security](https://mdsattacks.com/#accordion-tab-1-heading-11), and accessibility (discussed later) I stand by it.
 
-It seems clear that no new JavaScript engine can hope to catch up to the mainstream ones in terms of performance or API support, as such we should not expect them to. We should instead see how well recent web standards allow us to do without JavaScript, and failing that we should discuss [how new web standards](http://john.ankarstrom.se/replacing-javascript/) can help us move further away from JavaScript. Along that line I encourage you to check out [Intercooler.js](http://intercoolerjs.org/).
+It seems clear that no new JavaScript engine can hope to catch up to the mainstream ones in terms of performance or API support, as such we should not expect them to. We should instead see how well recent web standards allow us to do without JavaScript, and failing that we should discuss [how new web standards](http://john.ankarstrom.se/replacing-javascript/) can help us move further away from JavaScript. Along that line I encourage you to check out [Intercooler.js](http://intercoolerjs.org/) or [Unpoly.js](https://unpoly.com/).
 
 #### Examples
 
