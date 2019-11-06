@@ -36,10 +36,11 @@ This has already been my most controversial prescription, but for the sake of [p
 
 It seems clear that no new JavaScript engine can hope to catch up to the mainstream ones in terms of performance or API support, as such we should not expect them to. We should instead see how well recent web standards allow us to do without JavaScript, and failing that we should discuss [how new web standards](http://john.ankarstrom.se/replacing-javascript/) can help us move further away from JavaScript. Along that line I encourage you to check out [Intercooler.js](http://intercoolerjs.org/) or [Unpoly.js](https://unpoly.com/).
 
-#### Examples
+#### Examples/Links
 
 * [Pelican](https://mcss.mosra.cz/themes/pelican/)
 * [A JavaScript-Free Frontend](https://dev.to/winduptoy/a-javascript-free-frontend-2d3e) (blogpost)
+* [The Jobs of a Web Browser](https://old.reddit.com/r/dredmorbius/comments/256lxu/tabbed_browsing_a_lousy_bandaid_over_poor_browser/) (analysis)
 
 ### 4. Learn "Native" Toolkits
 The fundamental driver of browser bloat as I see it is a belief that the Web's hyperlinks, openness, and "universality" (the idea that it works great everywhere) means everything should be on the web. I disagree that these concepts have much meaning when applied outside of information, just as I disagree with the lack of design focus.
