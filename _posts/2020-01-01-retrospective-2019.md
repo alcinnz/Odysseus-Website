@@ -7,7 +7,7 @@ date: 2020-01-01 18:12:43 1300
 categories: design
 ---
 
-I have to major drivers pushing me to work on Odysseus. The first being how much I love and appreciate [software freedom](https://elementary.io/open-source/), [elementary OS](https://elementary.io/), & the sheer range of things published to The Web! These aspects of Odysseus were easy to implement.
+I have two major drivers pushing me to work on Odysseus. The first being how much I love and appreciate [software freedom](https://elementary.io/open-source/), [elementary OS](https://elementary.io/), & the sheer range of things published to The Web! These aspects of Odysseus were easy to implement.
 
 My other driver is my curiosity to explore new ways to (re)discover useful/entertaining/interesting webpages, in a way that's both more effective and privacy-protecting. And in 2019 it [no longer](https://www.theguardian.com/technology/2019/dec/28/tech-industry-year-in-review-facebook-google-amazon) appears to be just me [asking](https://www.theguardian.com/technology/2019/nov/22/sacha-baron-cohen-facebook-propaganda) these questions.
 
