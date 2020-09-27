@@ -32,7 +32,7 @@ Behind the scenes the error messages are implemented as Prosody templates which 
 
 The latter two of those standards are the same ones I've been using all along to open otherwise unknown filetypes and URI schemas.
 
-This all really serves to illustrate that free desktops like elementary OS are fully built on open standards, just as much as the Web. And at no point in developing this feature could I get away from from thinking about at least one open standard.
+This all really serves to illustrate that free desktops like elementary OS are fully built on open standards, just as much as the Web. And at no point in developing this feature could I get away from thinking about at least one open standard.
 
 ---
 

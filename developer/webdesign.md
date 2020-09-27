@@ -9,6 +9,7 @@ For guidance on how to design your webpages, I would recommend:
 * [Butterick's Practical Typography](https://practicaltypography.com/)
 * [Brutalist Web Design](https://brutalist-web.design/)
 * [The Web's Grain](https://frankchimero.com/writing/the-webs-grain/)
+* [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/#share) (interactive)
 
 Furthermore I would advise web developers to not restyle form controls because your readers will be familiar with those defaults due to their presence in other apps on their system, not to mention other websites following this advice. And instead of implementing your own video controls in JavaScript I would recommend using the `controls` attribute on the video element, as that would allow Odysseus or it's WebKitGTK upstream to bring similar benefits there.
 
